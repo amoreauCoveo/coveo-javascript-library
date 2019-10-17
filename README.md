@@ -6,6 +6,12 @@ The Coveo JavaScript Library has two main purposes: searching in a Coveo organiz
 
 To get started, simply run `npm install` to install the required dependencies.
 
+You will also need a Coveo Cloud V2 organization, preferably one where you are an administrator. For more information on Coveo Cloud organizations, see [Coveo Cloud Documentation](https://docs.coveo.com/en/2640/coveo-cloud-documentation).
+
+You can access your existing Coveo Cloud organizations on the [Coveo Cloud Administration Console](https://platform.cloud.coveo.com).
+
+The `Coveo.push` options also assumes that you have already created a Push source in your organization. To learn how to do so, see [Add or Edit a Push Source](https://docs.coveo.com/en/1546/cloud-v2-administrators/add-or-edit-a-push-source).
+
 ## Coveo.search
 
 By using `Coveo.search`, you can perform a search to your organization.
