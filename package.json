@@ -1,0 +1,16 @@
+{
+  "name": "coveo-javascript-library",
+  "version": "1.0.0",
+  "description": "A JavaScript library to push and search for documents in Coveo",
+  "main": "Coveo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoreauCoveo/coveo-javascript-library.git"
+  },
+  "author": "Alexandre Moreau <amoreau@coveo.com>",
+  "license": "Apache License 2.0",
+  "homepage": "https://github.com/amoreauCoveo/coveo-javascript-library",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

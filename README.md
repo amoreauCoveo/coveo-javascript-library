@@ -4,9 +4,7 @@ The Coveo JavaScript Library has two main purposes: searching in a Coveo organiz
 
 ## Getting Started
 
-This library depends on the [`request` npm library](https://www.npmjs.com/package/request).
-
-To install this library, enter `npm i request` in a terminal opened to the folder of your project.
+To get started, simply run `npm install` to install the required dependencies.
 
 ## Coveo.search
 
